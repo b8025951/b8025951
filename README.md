@@ -6,7 +6,6 @@
 -  How to reach me:
 - Email, personal - etrott00@gmail.com
 - Email, student - e.trott@newcastle.ac.uk
-- Mobile - 07715927103
 
 <!---
 b8025951/b8025951 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
